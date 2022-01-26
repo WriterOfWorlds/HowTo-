@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap');
 
-%quicksand {font-family: 'Quicksand', sans-serif; color: #087f5b;}
+%quicksand {font-family: 'Quicksand', sans-serif; color: #343a40;}
 
 body {
-  background: #087f5b;
+  background: #e8590c;
   margin: 0%;
   // overflow: hidden;
 }
 
 #header {
-  background: #20c997;
+  background: #ff922b;
   position: fixed;
   margin: 0px;
   top: 0px;
@@ -32,7 +32,7 @@ body {
   margin-right: 20px;
   min-height: 100vh;
   padding: 2vw;
-  background: #c3fae8;
+  background: #f76707;
   box-shadow: 0px 16px 32px 0px rgba(0,0,0,0.3);
 }
 
